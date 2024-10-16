@@ -1,4 +1,4 @@
-# algoritmo babilónico, para calcular la raíz cuadrada de un número, cuantas más iteraciones haya, más preciso será el resultado.
+# Algoritmo babilónico, para calcular la raíz cuadrada de un número, cuantas más iteraciones haya, más preciso será el resultado.
 numero = int(input("Introduce un número: "))
 iteracion = int(input("Introduce un número: "))
 raiz_cuadrada = 0
