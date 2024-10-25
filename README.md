@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/repository_type-personnal_exercise-%23507c84?style=flat&logo=pinboard&labelColor=%234f5765&color=%236f61ef">
+    <img alt="Static Badge" src="https://img.shields.io/badge/repository_type-course_exercise-%23507c84?style=flat&logo=pinboard&labelColor=%234f5765&color=%236f61ef">
     &nbsp;&nbsp;
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kuzcography/python-exercise?style=flat&logo=transmission&labelColor=%234f5765&color=%238f6fa1">
     &nbsp;&nbsp;
