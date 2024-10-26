@@ -12,7 +12,7 @@
     </div>
     <h3 align="center">python-exercise</h3>
     <p align="center">
-        This repository contains a sandbox in the form of a mini-project for learning how to create and understand Discord bots
+        This repository contains course exercises in Python 
         <br />
     </p>
     <p align="center">
