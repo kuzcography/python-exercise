@@ -29,25 +29,13 @@
 
 ## Introduction
 
-This repository serves as a sandbox for experimenting with various Discord bots in the form of mini-projects. These mini-projects are designed to handle different scenarios (such as pinging, responding to commands, moderation, etc.) on Discord servers. This is primarily a personal endeavor aimed at learning and exploring Discord bot development rather than for deployment.
+This repository contains various Python exercises in the form of mini-projects. These exercises cover a wide range of topics, including algorithms, i/o, and foundational Python concepts. They are primarily course exercises aimed at reinforcing and deepening Python programming skills.
 
 ## Installation
 
 Global prerequisites:
-- **Rust** (1.56.0 or higher) - Install from [rust-lang.org](https://www.rust-lang.org/tools/install)
-- **Cargo** - Comes with Rust installation.
-
-Where to find guild id token (server token):
-![image](https://github.com/user-attachments/assets/23ccb697-200a-425b-89ae-9f6315d7d41b)
-Where to find bot token :
-![image](https://github.com/user-attachments/assets/07790626-8a9d-4a6d-9213-34075d4e334e)
-
-How to run a mini-project:
-```bash
-cd file-name
-cargo build
-cargo run
-```
+- **Python** (3.8 or higher) - Install from [python.org](https://www.python.org/downloads/)
+- **pip** - Comes with Python installation.
 
 ## Contact
 
